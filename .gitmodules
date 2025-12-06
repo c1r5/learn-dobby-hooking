@@ -1,0 +1,3 @@
+[submodule "Dobby"]
+	path = Dobby
+	url = git@github.com-c1r5:c1r5/Dobby.git
