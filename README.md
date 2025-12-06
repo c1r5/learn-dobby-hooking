@@ -2,6 +2,7 @@
 
 Function hooking example using Dobby framework to bypass authentication in a crackme program.
 
+Following this post: [Function hooking using dobby](https://0x41337.medium.com/function-hooking-77f11d311bd5)
 ## Build
 
 ### 1. Build Dobby library
